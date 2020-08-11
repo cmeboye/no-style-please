@@ -5,7 +5,7 @@ entries:
       - title: A platform dedicated to catalog and display some of my hobby projects and hw's.
         url: false
       - title: About me
-        url: feed.xml
+        url: about.md
   
   - title: Mathematics
     url: false
