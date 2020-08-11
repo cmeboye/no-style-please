@@ -11,42 +11,39 @@ entries:
     url: false
     entries:
       - title: Project Euler
-        url: false
-        entries:
-          - title: 1-50
-            url: false
-          - title: 50+
-            url: false
+        url: https://cmeboye.github.io/coursera-htmlcss/
       - title: Overkill Solutions
-        url: false
+        url: https://cmeboye.github.io/coursera-htmlcss/
       - title: Physics and Maths Simulations
-        url: false
+        url: https://cmeboye.github.io/coursera-htmlcss/
       - title: Interesting
-        url: false
+        url: https://cmeboye.github.io/coursera-htmlcss/
 
   - title: Mechanical Engineering
     url: false
     entries:
       - title: Contraptions
-        url: false
+        url: https://cmeboye.github.io/coursera-htmlcss/
       - title: FEA (ANSYS)
-        url: false
+        url: https://cmeboye.github.io/coursera-htmlcss/
       - title: CAD/CAM Designs
-        url: false
+        url: https://cmeboye.github.io/coursera-htmlcss/
 
   - title: Arts
     url: false
     entries:
       - title: Sketches
-        url: false
+        url: https://cmeboye.github.io/coursera-htmlcss/
       - title: Illustrations
-        url: false
+        url: https://cmeboye.github.io/coursera-htmlcss/
       - title: Misc
-        url: false
+        url: https://cmeboye.github.io/coursera-htmlcss/
 
   - title: HW's
     url: false
-    entries: false
+    entries:
+      - title: All
+        url: https://cmeboye.github.io/coursera-htmlcss/
 
   - title: Recently added
     post_list: true
