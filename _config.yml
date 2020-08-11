@@ -3,7 +3,7 @@ author: Cem Güngör # name of site's author
 email: cemgungor@std.iyte.edu.tr # email of site's author
 url: https://cmeboye.github.io/no-style-please/ # root address of the site
 description: > # description of the site (multiple lines allowed)
-  A (nearly) no-CSS, fast, minimalist Jekyll theme.
+  a hobby page created by Cem Güngör
 
 permalink: /:slug.html
 
