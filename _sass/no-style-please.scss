@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
 html {
   color: black;
-  background-color: white;
+  background-color: aliceblue;
   font-family: 'Open Sans', sans-serif;
   font-size: 1.3rem;
   line-height: 1.3;
@@ -9,10 +9,10 @@ html {
 }
 
 a:active, a:visited {
-  color: #FF0000;
+  color: #591cff;
 }
 a:hover {
-  color: #FF00FF;
+  color: #1cbfff;
 }
 
 h2, h3, h4, h5, h6 { margin-top: 3rem; }
