@@ -3,10 +3,10 @@
 Gem::Specification.new do |spec|
   spec.name          = "no-style-please"
   spec.version       = "0.2.0"
-  spec.authors       = ["Riccardo Graziosi"]
-  spec.email         = ["riccardo.graziosi97@gmail.com"]
+  spec.authors       = ["Riccardo Graziosi, Cem Güngör"]
+  spec.email         = ["riccardo.graziosi97@gmail.com, cemgungor@std.iyte.edu.tr"]
 
-  spec.summary       = "A (nearly) no-CSS, fast, minimalist Jekyll theme."
+  spec.summary       = "A (nearly) no-CSS, fast, minimalist Jekyll theme created by riggaz edited by cmeboye."
   spec.homepage      = "https://github.com/riggraz/no-style-please"
   spec.license       = "MIT"
 
