@@ -4,7 +4,9 @@ entries:
     entries:
       - title: A platform dedicated to catalog and display some of my hobby projects and hw's.
         url: false
-      - title: About me
+      - title: About Me
+        url: about
+      - title: CV
         url: about
   
   - title: Mathematics
