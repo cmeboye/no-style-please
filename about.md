@@ -24,7 +24,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ##### Education Status
 - 2012-2016 Çukurova Bilfen Highschool Adana.
 - 2017-2022 (Expected) Izmir Institute of Technology, Mechanical Engineering.
-> Izmir Inststute of Technology (IZTECH/İYTE) maintains a strong emphasis on the natural sciences and engineering and is the only institute of its kind in Turkey with a special focus on scientific research. Izmir Institute of Technology is often cited among Turkey's top universities.
+
+Izmir Inststute of Technology (IZTECH/İYTE) maintains a strong emphasis on the natural sciences and engineering and is the only institute of its kind in Turkey with a special focus on scientific research. Izmir Institute of Technology is often cited among Turkey's top universities.
 
 ##### Work Experience
 - 2020 Summer Internship-KSG Machinery Manufacturing
