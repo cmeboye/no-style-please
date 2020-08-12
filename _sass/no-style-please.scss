@@ -16,18 +16,18 @@ a:hover {
 
 h2, h3, h4, h5, h6 { margin-top: 3rem; }
 
-hr { margin: 1rem 0; }
+hr { margin: 2rem 0; }
 
-p { margin: 0.5rem 0; }
+p { margin: 1rem 0; }
 
-li { margin: 0.2rem 0; }
+li { margin: 0.4rem 0; }
 
 *:target { background-color: yellow; }
 
 .wrapper {
-  max-width: 100ch;
+  max-width: 80ch;
   margin: 4rem auto;
-  padding: 0 0.8rem;
+  padding: 0 1rem;
 }
 
 hr {
